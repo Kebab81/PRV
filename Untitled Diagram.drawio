@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T18:26:59.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="t0y0YplPCiLJCQm4x25g" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T20:22:42.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="vF782OnbQMo7SGR62_-Z" version="15.4.0" type="github">
   <diagram id="f6o2FOGRASFLj1vxCPKE" name="Page-1">
-    <mxGraphModel dx="1673" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,9 +32,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_KLARVnYL17PYb3-e0V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="o_KLARVnYL17PYb3-e0V-11" target="o_KLARVnYL17PYb3-e0V-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pFePnnmc8nNFa3hrseSd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o_KLARVnYL17PYb3-e0V-11" target="pFePnnmc8nNFa3hrseSd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o_KLARVnYL17PYb3-e0V-11" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span class=&quot;product-current-sku&quot;&gt;USW-Enterprise-48-PoE&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;195.18.0.2/23&lt;/span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
@@ -99,32 +96,17 @@
         <mxCell id="o_KLARVnYL17PYb3-e0V-30" value="89.151.36.77" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="250" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Vlan 2&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="560" width="60" height="20" as="geometry" />
+        <mxCell id="o_KLARVnYL17PYb3-e0V-31" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Vlan 20&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="720" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-32" value="Vlan 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="605" y="700" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-33" value="&lt;div&gt;Vlan4&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="595" y="835" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-34" value="&lt;div&gt;Vlan 5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="880" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-35" value="Vlan 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="700" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o_KLARVnYL17PYb3-e0V-36" value="Vlan 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="540" width="50" height="20" as="geometry" />
+        <mxCell id="o_KLARVnYL17PYb3-e0V-32" value="Vlan 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="720" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o_KLARVnYL17PYb3-e0V-37" value="0.X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="490" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o_KLARVnYL17PYb3-e0V-38" value="&lt;div&gt;1.X&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="475" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pFePnnmc8nNFa3hrseSd-1" value="Server z usługami&lt;br&gt;195.18.0.150" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="444" y="865" width="43" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
